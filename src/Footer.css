@@ -5,6 +5,7 @@
   bottom: 0;
   height: 65px;
   width: 100%;
+  max-width: -webkit-fill-available;
   background-color: #282828;
   padding: 20px;
 }
