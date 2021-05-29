@@ -24,7 +24,8 @@ function App() {
         token: _token,
       });
 
-      spotify.getPlaylist("37i9dQZF1E395PwmCcUkrw").then((response) =>
+      //hardcoded playlist now
+      spotify.getPlaylist("4DmnGuVmlL77c11cR2mbUp").then((response) =>
         dispatch({
           type: "SET_DISCOVER_WEEKLY",
           discover_weekly: response,
