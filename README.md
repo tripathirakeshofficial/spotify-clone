@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to spotify-clone-app 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
+  <a href="https://github.com/tripathirakeshofficial/spotify-clone/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/rAkEsH_tRiPa" target="_blank">
@@ -11,7 +11,7 @@
 
 > Spotify Clone Application using ReactJS, Spotify API, Responsive design, Material UI, React Context API, React Hooks and Firebase.(Spotify Premium Account Required To Play Music)
 
-### ✨ [Demo](https://spotify-clone-ecff4.web.app)
+### ✨ [Demo](https://spotify-clone-ecff4.web.app/)
 
 ## Usage
 
@@ -30,5 +30,10 @@ npm start
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [Rakesh Tripathi](https://github.com/tripathirakeshofficial).<br />
+This project is [MIT](https://github.com/tripathirakeshofficial/spotify-clone/blob/master/LICENSE) licensed.
 
 ---
